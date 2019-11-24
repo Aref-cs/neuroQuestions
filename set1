@@ -1,32 +1,32 @@
-1.	What are the synonyms of hippocampus?
-2.	Which parts of the precentral gyrus are active in schizophrenia and healthy volunteers in these data?
-3.	Which parts of Brodmann Area 6 are activated in Schizophrenia and Healthy Volunteers?
-4.	Do the schizophrenia subjects show more or less co-activation than healthy subjects do, in cortical regions that are connected by the superior longitudinal fasciculus?
-5.	What is the white matter volume of the regions of the inferior parietal lobule in the data?
-6.	What is the average anatomical region of the precentral gyrus in the brain in different ontologies?
-7.	What is the precentral gyrus?
-8.	What is the relationship of telencephalon and diencephalon?
-9.	Is the left amygdala part of the amygdala?
-10.	Which regions overlap with the precentral gyrus?
-11.	How many subjects gained extra volume in a region of the diencephalon in the patient’s data?
-12.	Which annotated structural region has changed volume in patients?
-13.	What are the positive effects of aspirin on the brains of elderly people?
-14.	What is the anatomical region of the premotor cortex?
-15.	What is the thickness of inferior parietal lobule in the data?
-16.	What are the brain regions with atrophy in Huntington's disease (HD).
-17.	Which sub-cortical region has the largest atrophy in HD?
-18.	Which cortical region has the highest amount of cortical thinning?
-19.	Which regions are functionally connected to the most atrophied region in HD?
-20.	Which regions are structurally connected to the most atrophied region in HD?
-21.	Which cortical regions show changes in functional activity in HD?
-22.	Which regions show early atrophy in pre manifest HD?
-23.	Which cortical regions show thinning in pre manifest HD?
-24.	Which regions show thinning/atrophy over 12 months in HD?
-25.	Does any region show increased activity in pre manifest HD?
-26.	How many regions are in the parietal cortex?
-27.	Is the thalamus atrophic in the Multiple Sclerosis patients?
-28.	How does connectivity between the thalamus and motor cortex differ between patients and controls?
-29.	Find all the subjects with an average cortical thickness less than 5mm.
-30.	What is the activation level in the anterior cingulate gyrus?
-31.	Is the degree of change in volume of the thalamus over 1 year in patients greater than the change in controls?
-32.	Is cortical thickness correlated across all cortical regions in this subject group?
+What are the synonyms of hippocampus?
+Which parts of the precentral gyrus are active in schizophrenia and healthy volunteers in these data?
+Which parts of Brodmann Area 6 are activated in Schizophrenia and Healthy Volunteers?
+Do the schizophrenia subjects show more or less co-activation than healthy subjects do, in cortical regions that are connected by the superior longitudinal fasciculus?
+What is the white matter volume of the regions of the inferior parietal lobule in the data?
+What is the average anatomical region of the precentral gyrus in the brain in different ontologies?
+What is the precentral gyrus?
+What is the relationship of telencephalon and diencephalon?
+Is the left amygdala part of the amygdala?
+Which regions overlap with the precentral gyrus?
+How many subjects gained extra volume in a region of the diencephalon in the patient’s data?
+Which annotated structural region has changed volume in patients?
+What are the positive effects of aspirin on the brains of elderly people?
+What is the anatomical region of the premotor cortex?
+What is the thickness of inferior parietal lobule in the data?
+What are the brain regions with atrophy in Huntington's disease (HD).
+Which sub-cortical region has the largest atrophy in HD?
+Which cortical region has the highest amount of cortical thinning?
+Which regions are functionally connected to the most atrophied region in HD?
+Which regions are structurally connected to the most atrophied region in HD?
+Which cortical regions show changes in functional activity in HD?
+Which regions show early atrophy in pre manifest HD?
+Which cortical regions show thinning in pre manifest HD?
+Which regions show thinning/atrophy over 12 months in HD?
+Does any region show increased activity in pre manifest HD?
+How many regions are in the parietal cortex?
+Is the thalamus atrophic in the Multiple Sclerosis patients?
+How does connectivity between the thalamus and motor cortex differ between patients and controls?
+Find all the subjects with an average cortical thickness less than 5mm.
+What is the activation level in the anterior cingulate gyrus?
+Is the degree of change in volume of the thalamus over 1 year in patients greater than the change in controls?
+Is cortical thickness correlated across all cortical regions in this subject group?
